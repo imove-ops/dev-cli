@@ -130,7 +130,7 @@ Assuming all the containers will be available at gitBasePath/containerName, this
 
 You will need to make sure these repositories are accessible from your computer in advance, as the command run is simply the `git clone` command.
 
-### `dev pull [filter]``
+### `dev pull [filter]`
 
 This will run `git pull` on the current branch. There is no check for local changes, causing the command to fail.
 
